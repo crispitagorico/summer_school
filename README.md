@@ -35,3 +35,7 @@
 ## Transformer Tutorial
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crispitagorico/summer_school/blob/main/transformers_jax.ipynb)
+
+## BERT Tutorial
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crispitagorico/summer_school/blob/main/bert_jax.ipynb)
