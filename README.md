@@ -1,5 +1,7 @@
 # Summer School Notebooks
 
+Most of the code adapted from [this repo](https://github.com/probml/pyprobml/tree/master/notebooks/book1).
+
 ## Gradient Descent Tutorial
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crispitagorico/summer_school/blob/main/gradient_descent.ipynb)
