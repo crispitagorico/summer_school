@@ -15,3 +15,7 @@
 ## Sentiment Analysis Tutorial
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crispitagorico/summer_school/blob/main/rnn_sentiment_analysis_jax.ipynb)
+
+## LSTM Tutorial
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crispitagorico/summer_school/blob/main/lstm_jax.ipynb)
